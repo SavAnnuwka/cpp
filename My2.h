@@ -11,8 +11,7 @@
 class My2: public My {
 
   virtual void foo(int aa, std::string st1);
-
-
+//new change1
 };
 
 
