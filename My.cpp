@@ -6,6 +6,6 @@
 #include "My.h"
 
 void My::foo(int a, std::string st) {
-    int i;
+   // int i;
 
 }
