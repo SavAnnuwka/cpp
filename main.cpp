@@ -16,14 +16,11 @@ public:  virtual void f(char &&string);
 
 
 int main() {
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
+    cout << "Hello, World1!" << endl;
+    cout << "Hello, World2!" << endl;
+    cout << "Hello, World3!" << endl;
+    cout << "Hello, World4!" << endl;
     return 0;
 }
 
 
-void B::f(char &&string) {
-    CAb::f(string);
-}
