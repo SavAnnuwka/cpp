@@ -17,7 +17,7 @@ public:  virtual void f(char &&string);
 
 int main() {
 
-    cout << "Hello, World!" << endl;
+
     cout << "Hello, World!" << endl;
     cout << "Hello, World!" << endl;
     return 0;
